@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Seminar3</string>
+    <string name="add_name">Name</string>
+    <string name="add_age">Age</string>
+    <string name="enrollment_date">Enrollment date</string>
+    <string name="add_mode_of_study">Mode of study</string>
+    <string name="add_full_time">Full time</string>
+    <string name="add_distance">Distance</string>
+    <string name="add_faculty">Add faculty</string>
+    <string name="add_save">Save</string>
+    <string name="invalid_name">Invalid name. Min. 3 characters</string>
+    <string name="invalid_age">Acces for age between 18-69</string>
+    <string name="student_added_message">Studentul adaugat %1$s</string>
+
+    <string-array name="add_faculties">
+        <item>CSIE</item>
+        <item>CIG</item>
+        <item>MRK</item>
+    </string-array>
+</resources>
